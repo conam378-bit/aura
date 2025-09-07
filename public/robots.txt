@@ -1,2 +1,2 @@
-User-agent: *
-Disallow:
+User-agent: *conam378@gmail.com
+Disallow:Galau5678@
